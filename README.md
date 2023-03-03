@@ -18,11 +18,11 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|  | Project's Name | Description    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+|  | Project's Name                        |          Description         | GitHub's Link  |
+|:--:|:------------------------------- --:|:--------------:|:-----------:|
+| 1 |  - Week 7- Individual Assignment    |  -  Caesar's Cipher Decryption| https://github.com/WachiraChris/Week-7_-Individual-Aassignment.git|
+| 2 |  -  Week 8 - Group Project          | -  Caesar's Cipher Encryption | https://github.com/WachiraChris/Week-8_-Group-Assignment.git  |
+| 3 |  - Week 12- Peer Programming Project|  -  Shifting Images           | https://github.com/WachiraChris/Week-12_-Peer-Programming-Project.git    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
